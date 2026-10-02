@@ -1,0 +1,6 @@
+# Profile patch: a single bundle entry. No separate configuration is needed —
+# the model prices and the exchange-rate endpoint live in client.js next to the
+# calculation itself.
+- insert:
+    - id: rub-cost
+      name: '@stmol/dsh-rub-cost'
