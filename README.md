@@ -4,7 +4,7 @@ A DeepSeek Harness plugin: it shows the cost of the current session in rubles in
 the conversation dock, next to the built-in token counters
 (`conversation.composer.dock`).
 
-![Session cost card opened over the "0,56 ₽" pill: model, peak tariff with countdown, API cost, CBR rate, cache savings and the USD balance](assets/session-cost-card.webp)
+![Session cost card opened over the "0,56 ₽" pill: model, peak tariff with countdown, API cost, CBR rate, cache savings and the USD balance](assets/session-cost-card.png)
 
 The pill is a button. Clicking it opens a card styled after the built-in "Token
 usage" popover; a second click, a click outside the card, or Escape closes it.
